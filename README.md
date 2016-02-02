@@ -3,8 +3,7 @@ Created a rational agent that plays the game by making the best possible decisio
 
 About the Game:
 
-Start with a few dots (vertices). For the first few games, start with 2­4 vertices. Players take 
-turns connecting two vertices with a curve (edge) and placing a new vertex along this edge. 
+Start with a few dots (vertices). The game starts with 2 vertices. Players take turns connecting two vertices with a curve (edge) and placing a new vertex along this edge. 
 This is done following two rules: 
 -> Each vertex can have at most three edges coming from it 
 -> Edges must be drawn so that they do not cross or touch any other vertices than the two they are 
